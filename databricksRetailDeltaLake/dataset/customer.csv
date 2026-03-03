@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,state,signup_date,is_active
+1,Alice,Johnson,alice.johnson@email.com,New York,NY,2024-01-15,true
+2,Bob,Smith,bob.smith@email.com,Chicago,IL,2024-02-20,true
+3,Charlie,Brown,charlie.brown@email.com,Dallas,TX,2024-03-05,true
+4,Diana,Prince,diana.prince@email.com,Los Angeles,CA,2024-03-18,true
+5,Ethan,Hunt,ethan.hunt@email.com,Seattle,WA,2024-04-10,false
+6,Fiona,Clark,fiona.clark@email.com,Miami,FL,2024-05-22,true
+7,George,King,george.king@email.com,Boston,MA,2024-06-01,true
+8,Hannah,Scott,hannah.scott@email.com,Denver,CO,2024-06-15,false
+9,Ian,Wright,ian.wright@email.com,Atlanta,GA,2024-07-03,true
+10,Julia,Roberts,julia.roberts@email.com,Phoenix,AZ,2024-07-20,true
