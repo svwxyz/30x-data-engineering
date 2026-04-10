@@ -1,0 +1,21 @@
+order_id,customer_id,city,restaurant,item,price,quantity,delivery_time_minutes,order_date
+1001,C001,Delhi,Burger Hub,Burger,120,2,30,2025-03-01
+1002,C002,Mumbai,Pizza Point,Pizza,250,1,25,2025-03-01
+1003,C003,Bangalore,Spicy Treat,Biryani,180,1,40,2025-03-02
+1004,C004,Delhi,Burger Hub,Fries,80,3,20,2025-03-02
+1005,C005,Hyderabad,Spicy Treat,Biryani,200,2,35,2025-03-03
+1006,C001,Delhi,Pizza Point,Pizza,300,1,28,2025-03-03
+1007,C006,Mumbai,Burger Hub,Burger,150,2,32,2025-03-04
+1008,C007,Bangalore,Pizza Point,Pizza,270,1,30,2025-03-04
+1009,C008,Delhi,Spicy Treat,Biryani,190,1,45,2025-03-05
+1010,C009,Hyderabad,Burger Hub,Burger,140,2,33,2025-03-05
+1011,C010,Delhi,Pizza Point,Pizza,260,1,27,2025-03-06
+1012,C002,Mumbai,Spicy Treat,Biryani,210,2,38,2025-03-06
+1013,C003,Bangalore,Burger Hub,Burger,130,1,29,2025-03-07
+1014,C004,Delhi,Pizza Point,Pizza,280,1,26,2025-03-07
+1015,C005,Hyderabad,Burger Hub,Burger,160,2,34,2025-03-08
+1016,C006,Mumbai,Pizza Point,Pizza,240,1,31,2025-03-08
+1017,C007,Bangalore,Spicy Treat,Biryani,175,1,42,2025-03-09
+1018,C008,Delhi,Burger Hub,Fries,90,2,22,2025-03-09
+1019,C009,Hyderabad,Pizza Point,Pizza,260,1,29,2025-03-10
+1020,C010,Delhi,Spicy Treat,Biryani,220,2,41,2025-03-10
