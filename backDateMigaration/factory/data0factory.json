@@ -1,0 +1,15 @@
+{
+	"name": "data0factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b5e4a9ae-f645-4c85-a988-0c2e2a358000",
+		"tenantId": "ec4d4bd8-fe75-48cb-b972-b0cd5f4e6728"
+	}
+}
