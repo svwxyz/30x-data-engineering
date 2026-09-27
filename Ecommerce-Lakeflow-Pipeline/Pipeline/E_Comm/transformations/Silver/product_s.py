@@ -6,7 +6,7 @@ rules= {
             "rule2":"price > 0"
         }
 
-@dp.table
+@dp.table(name="ecomm.silver.products_s")
 @dp.expect_all_or_drop(rules)
 def product_s():
     df = spark.readStream.table('ecomm.bronze.products_b')
